@@ -6,7 +6,7 @@
 <body>
   <h1 style="text-align: center">Yes!</h1>
   <div>
-    If it's Tom Dickin that is, Tom Singer is not!
+    They're both pretty svelte to be honest! Tom Dickin and Tom Singer that is!
   </div> 
 </body>
 </html>
